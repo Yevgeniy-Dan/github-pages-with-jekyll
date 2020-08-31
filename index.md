@@ -1,3 +1,6 @@
 # Welcome to my blog
 
 I'm glad you are here. I plan to talk about ...
+## Здесь и сейчас...
+Здесь и сейчас я создаю свой первый в жизни статический сайт с помощью GitHub Pages
+###Это круто!!!:smiley::sunglasses:
